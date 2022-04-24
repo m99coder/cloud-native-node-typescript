@@ -1,1 +1,2 @@
-# cloud-native-node-typescript
+# Cloud-Native Node.js Applications in 
+TypeScript
